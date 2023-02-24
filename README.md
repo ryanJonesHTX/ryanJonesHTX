@@ -11,7 +11,7 @@ I am a Full Stack Developer looking to contribute to a team of engineers.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring new programming skills and languages.
-- ⚡ When I'm not coding, I am spending time with my two little ones.
+- ⚡ When I'm not coding, I am spending time with my wife and two children.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-RyanJones-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryanjones-)
 
 ---
